@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joy&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- PROFILE PICTURE -->
-<img src="https://avatars.githubusercontent.com/u/229649940?v=4" width="120" style="border-radius:50%; margin-top:-60px;" />
+<img src="https://avatars.githubusercontent.com/u/229649940?v=4" width="120" style="border-radius:50%; margin-top:-60px; border-radius: 100%" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -50,7 +50,7 @@ I love turning ideas into functional projects, learning by doing, and exploring 
 
 ### 🧰 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel, netlify, surge" />
 </p>
 
 </div>
@@ -61,7 +61,6 @@ I love turning ideas into functional projects, learning by doing, and exploring 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sourjo-ghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourjo-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
 <br/>
@@ -80,9 +79,6 @@ I love turning ideas into functional projects, learning by doing, and exploring 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Joy_Ghoshsourjo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sourjo__ghosh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyg03426@gmail.com)
-[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/joyghosh)
-[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joyghoshsourjo)
-
 </div>
 
 ---
