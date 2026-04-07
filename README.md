@@ -1,11 +1,14 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joy&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Backend%20Developer%20in%20the%20Making&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joy&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
+
+<!-- PROFILE PICTURE -->
+<img src="https://avatars.githubusercontent.com/u/229649940?v=4" width="120" style="border-radius:50%; margin-top:-60px;" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=500&lines=Hi+there!+I'm+Joy+%F0%9F%91%8B;Aspiring+Backend+Developer;MERN+Stack+Learner;Always+learning%2C+always+building..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Joy+%F0%9F%91%8B;Aspiring+Backend+Developer;MERN+Stack+Learner;Always+learning+%26+building..." alt="Typing SVG" />
 </a>
 
 </div>
@@ -14,23 +17,20 @@
 
 ## 🧑‍💻 About Me
 
-Hey! I'm **Joy**, a passionate web development learner from **Dhaka, Bangladesh** 🇧🇩  
-Currently enrolled in the **MERN Stack bootcamp** at [Programming Hero](https://web.programming-hero.com/), with a clear goal — become a skilled **Backend Developer**.
+Hi! I'm **Joy**, a passionate web development learner from **Dhaka, Bangladesh** 🇧🇩.  
+Currently diving deep into **MERN Stack**, focusing on **backend development**.  
 
-I love breaking down complex concepts, learning through examples, and building things that actually work. JavaScript is my current obsession, and I'm slowly making my way toward Node.js, Express, and MongoDB.
-
-> *"First, solve the problem. Then, write the code."*
+I love turning ideas into functional projects, learning by doing, and exploring new web technologies.  
 
 ---
 
 ## 🔥 What I'm Up To
 
-- 🚀 Currently mastering **React.js** before jumping into Next.js
-- 🛠️ Building projects to solidify my **JavaScript ES6+** fundamentals
-- 📚 Exploring **Node.js** and **Express.js** for backend development
-- 🔍 Deep-diving into **MongoDB** and database design concepts
-- 🧠 Strengthening my understanding of **REST APIs** and authentication
-- 🎯 Long-term goal: Backend-focused full-stack development
+- 🚀 Exploring **Next.js** and server-side rendering concepts
+- 🛠️ Building full-stack projects to strengthen **JavaScript & Node.js** skills
+- 📚 Learning advanced **MongoDB** and database modeling
+- 🔍 Understanding **REST API development** and authentication
+- 🎯 Long-term goal: Master backend development and scalable web applications
 
 ---
 
@@ -45,12 +45,12 @@ I love breaking down complex concepts, learning through examples, and building t
 
 ### ⚙️ Backend (Learning)
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs" />
 </p>
 
 ### 🧰 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel" />
 </p>
 
 </div>
@@ -64,9 +64,7 @@ I love breaking down complex concepts, learning through examples, and building t
 <img src="https://github-readme-stats.vercel.app/api?username=sourjo-ghosh&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourjo-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
-
 <br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sourjo-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 </div>
@@ -82,6 +80,8 @@ I love breaking down complex concepts, learning through examples, and building t
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Joy_Ghoshsourjo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sourjo__ghosh/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joyg03426@gmail.com)
+[![Snapchat](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)](https://snapchat.com/add/joyghosh)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@joyghoshsourjo)
 
 </div>
 
