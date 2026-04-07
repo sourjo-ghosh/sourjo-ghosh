@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joy&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Joy-Ghosh-Sourjo&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Aspiring%20Backend%20Developer&descAlignY=60&descSize=20" width="100%"/>
 
 <!-- PROFILE PICTURE -->
-<img src="https://avatars.githubusercontent.com/u/229649940?v=4" width="120" style="border-radius:50%; margin-top:-60px; border-radius: 100%" />
+<img src="https://avatars.githubusercontent.com/u/229649940?v=4" width="120" style="border-radius:60px; margin-top:-60px;" />
 
 <!-- TYPING ANIMATION -->
 <a href="https://git.io/typing-svg">
@@ -50,7 +50,7 @@ I love turning ideas into functional projects, learning by doing, and exploring 
 
 ### 🧰 Tools & Environment
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel, netlify, surge" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 </div>
@@ -60,10 +60,6 @@ I love turning ideas into functional projects, learning by doing, and exploring 
 ## 📊 GitHub Stats
 
 <div align="center">
-
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sourjo-ghosh&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
-<br/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sourjo-ghosh&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="180"/>
 
 </div>
@@ -86,7 +82,4 @@ I love turning ideas into functional projects, learning by doing, and exploring 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=sourjo-ghosh&color=58a6ff&style=flat-square&label=Profile+Views)
-
 </div>
